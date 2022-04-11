@@ -48,19 +48,120 @@ main{
 .manhands{
     width: 1920px;
     height: 633px;
+    padding: 100px;
+}
+.weedflower{
+    width: 600px;
+    height: 808px;
+    padding: 100px;
+    
+   
+}
+.fluffyflower{
+    width: 397px;   
+    height: 534px;
+    padding: 100px;
+}
+.productone{
+    width: 398px;
+    height: 398px;
+    padding: 100px;
+}
+.producttwo{
+    width: 398px;
+    height: 398px;
+    padding: 100px;
+}
+.productthree{
+    width: 398px;
+    height: 398px;
+    padding: 100px;
+}
+.productfour{
+    width: 398px;
+    height: 398px;
+    padding: 100px;
+}
+.productfive{
+    width: 398px;
+    height: 398px;
+    padding: 100px;
+}
+.productsix{
+    width: 398px;
+    height: 398px;
+    padding: 100px;
+}
+.productseven{
+    width: 398px;
+    height: 398px;
+    padding: 100px;
+}
+.producteight{
+    width: 398px;
+    height: 398px;
+    padding: 100px;
+}
+.productnine{
+    width: 398px;
+    height: 398px;
+    padding: 100px;
 }
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
-    margin: 0%;
+    margin: 0px;
+    border: 0px;
 }
 .products {
-    display: flex; flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.ourproductstext{
+    width: 50px;
+    height: 15px;
 }
 
 .addtocart{
     background-color: #bf7631;
 }
 
-footer{}
+.contacts{
+   
+}
+.youtubeicon{
+    width: 74px;
+    height: 74px;
+}
+
+.facebookicon{
+    width: 74px;
+    height: 74px;
+
+}
+
+.navlogobleft{
+
+
+}
+
+.navlogobimage{
+
+}
+
+.navlogobright{
+
+}
+
+.twitterlog{
+    width: 74px;
+    height: 74px;
+}
+
+.instagramlogo{
+    width: 74px;
+    height: 74px;
+}
