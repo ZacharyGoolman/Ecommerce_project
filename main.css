@@ -2,6 +2,58 @@
 html {box-sizing: border-box;}
 .boxed {background-color: #bf7631;}
 
-body{}
+head{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    
+}
 
 
+header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    position: relative;
+    padding: 1rem;
+}
+.header_containter {
+    display: flex;
+    flex-direction: row;
+}
+.nav_item {
+    display: inline;
+    padding-left: 25px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+.navsearchlogo {
+    width: 25px;
+    height: 25px;
+}
+.navlogoleft {
+    padding-left: 25px;
+}
+.navlogoimage {
+    color: #bf7631;
+    width: 35px;
+    height: 35px;
+}
+
+
+main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin: 0%;
+}
+.products {
+    display: flex;
+}
+
+
+footer{}
