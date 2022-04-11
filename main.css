@@ -52,8 +52,11 @@ body{
     margin: 0%;
 }
 .products {
-    display: flex;
+    display: flex; flex-wrap: wrap;
 }
 
+.addtocart{
+    background-color: #bf7631;
+}
 
 footer{}
